@@ -1,6 +1,4 @@
 
-use dbresilia;
-
 CREATE TABLE `cursos` (
   `id_cursos` int(11) NOT NULL PRIMARY KEY,
   `nome_curso` varchar(100) NOT NULL,
